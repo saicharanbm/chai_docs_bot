@@ -3,6 +3,7 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+
 # C extensions
 *.so
 
@@ -68,3 +69,4 @@ dmypy.json
 
 # macOS system files
 .DS_Store
+.env
